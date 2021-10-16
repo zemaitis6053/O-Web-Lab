@@ -1,0 +1,22 @@
+/* Vidual area */
+
+#vidual-area{
+  position: relative;
+  background: url(../img/contact.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 80%;
+  height: 20vh;
+  margin-left: auto;
+}
+
+#vidual-area h2{
+  top: 60%;
+  left: -18%;
+  line-height: .8;
+}
+
+.contact-text{
+  margin-bottom: 50px;
+}
